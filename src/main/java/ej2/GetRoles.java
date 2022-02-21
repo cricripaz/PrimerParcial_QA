@@ -21,10 +21,6 @@ public class GetRoles {
 
 
 
-
-
-
-
     public String obtenerRoles (String user , String pwd){
 
 
